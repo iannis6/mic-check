@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Swift build
+swift/.build/
+swift/.swiftpm/
+
+# OS files
+.DS_Store
+
+# Raycast
+.raycast-local/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
